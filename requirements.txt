@@ -1,2 +1,2 @@
 Flask==1.1.2
-Flask-Frozen==1.0.1
+Flask-Frozen==0.15 
