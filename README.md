@@ -13,8 +13,8 @@ My calculations are based on the research I did using these links:
 [Defense/Special Teams](https://www.lineups.com/fantasy-football-stats/defense'),
 [Kickers](https://www.sharpfootballanalysis.com/fantasy/te-stats-that-matter-fantasy-football/)
 
-## Usage
-This website is deployed to Netlify. Here is the link to access it: 
+## Demo
+Link: https://www.youtube.com/watch?v=XnlI7SXFZvk
 
 ## List of what I used
 - Python
