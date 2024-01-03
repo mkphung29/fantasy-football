@@ -11,6 +11,7 @@ from analyze import (
     calculate_dst_rating, calculate_k_rating
 )
 
+
 def configure_routes(app):
     @app.route('/')
     def index():
