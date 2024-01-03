@@ -8,7 +8,6 @@ subprocess.run(["source", "venv/bin/activate"])
 
 # Install dependencies
 subprocess.run(["pip", "install", "-r", "requirements.txt"])
-
 # Call the application factory function to construct a Flask application
 # instance using the development configuration
 app = create_app()
