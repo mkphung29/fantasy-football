@@ -56,7 +56,7 @@ oslo.serialization==5.2.0
 oslo.service==3.2.0
 oslo.utils==6.3.0
 packaging==23.2
-pandas==2.1.4
+pandas
 paramiko==3.4.0
 Paste==3.7.1
 PasteDeploy==3.1.0
