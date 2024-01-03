@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Fantasy Football Recommendations</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  </head>
+  <body>
+    <nav class="navbar is-warning" role="navigation" aria-label="main navigation" height="150px">
+      <div class="navbar-brand">
+        <a class="navbar-item" href="/">
+          <img width="50" height="80" src="https://img.icons8.com/emoji/48/american-football-emoji.png" alt="american-football-emoji"/>
+          <p class="subtitle">Fantasy Football Recommendations</p>
+        </a>
+    
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+    </nav>
+  <main>
+<section class="section">
+    <div class="container">
+      <h1 class="title">
+        Top Kickers
+      </h1>
+    
+      <table class="table is-bordered is-striped is-fullwidth">
+          <thead>
+              <tr>
+                  <th>Player</th>
+              </tr>
+          </thead>
+          <tbody>
+              
+                  <tr>
+                      <td>Brandon Aubrey(DAL)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Harrison Butker(KC)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Jake Elliott(PHI)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Justin Tucker(BAL)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Dustin Hopkins(CLE)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Jason Myers(SEA)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Cairo Santos(CHI)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Matt Gay(IND)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Greg Zuerlein(NYJ)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Jason Sanders(MIA)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Younghoe Koo(ATL)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Cameron Dicker(LAC)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Nick Folk(TEN)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Chris Boswell(PIT)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Wil Lutz(DEN)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Chase McLaughlin(TB)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Brandon McManus(JAC)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Blake Grupe(NO)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Jake Moody(SF)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Matt Prater(ARI)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Tyler Bass(BUF)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Evan McPherson(CIN)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Anders Carlson(GB)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Ka&#39;imi Fairbairn(HOU)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Daniel Carlson(LV)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Eddy Pineiro(CAR)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Greg Joseph(MIN)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Joey Slye(WAS)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Riley Patterson(CLE)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Brett Maher(LAR)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Chad Ryland(NE)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Lucas Havrisik(FA)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Graham Gano(NYG)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Randy Bullock(NYG)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Michael Badgley(DET)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Matt Ammendola(FA)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Mason Crosby(NYG)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Austin Seibert(NYJ)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Andrew Jacas(SF)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Mark Hickok(NYG)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>MacKenzie Hoambrecker(SF)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Clint Stitser(WAS)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Garrett Lindholm(ATL)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Saverio Rocca(WAS)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Kai Forbath(LAR)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Carlos Martinez(DAL)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Andrew Wellock(CAR)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Ricky Schmit(SF)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Garrett Rivas(TB)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Jason Reda(CLE)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Zac Derr(ATL)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Parker Douglass(NYJ)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Steven Weatherford(NYJ)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Piotr Czech(PIT)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Cade York(NYG)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Matthew Wright(CAR)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Connor Hughes(DAL)</td>
+                  </tr>
+              
+          </tbody>
+      </table>
+    </div>
+</section>
+<div class="container is-fluid">
+    <aside class="menu">
+        <p class="menu-label">
+          <strong>Position Rankings</strong>
+        </p>
+        <ul class="menu-list">
+          <li><a href="/qb">Quarterback</a></li>
+          <li><a href="/rb">Running Back</a></li>
+          <li><a href="/wr">Wide Receiver</a></li>
+          <li><a href="/te">Tight End</a></li>
+          <li><a href="/dst">Defense/Special Teams</a></li>
+        </ul>
+      </aside>
+  </div>
+</main>
+  </body>
+  <footer class="footer">
+    <div class="content has-text-centered">
+      <p>
+        <strong>Fantasy Football Recommendations</strong> by Madison Phung. The source code can be found on
+        <a href="https://github.com/mkphung29/fantasy-football">GitHub</a>.
+      </p>
+    </div>
+  </footer>
+</html>

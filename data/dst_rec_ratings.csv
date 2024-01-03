@@ -1,33 +1,33 @@
 PLAYER,REC_RATING
 Baltimore Ravens(BAL),13.7
-Dallas Cowboys(DAL),12.7
-Cleveland Browns(CLE),12.9
 Buffalo Bills(BUF),13.3
 Miami Dolphins(MIA),13.0
-Las Vegas Raiders(LV),11.5
+Cleveland Browns(CLE),12.9
+Indianapolis Colts(IND),12.8
+Dallas Cowboys(DAL),12.7
 San Francisco 49ers(SF),12.5
 New York Jets(NYJ),11.8
-New Orleans Saints(NO),10.9
-Indianapolis Colts(IND),12.8
 Pittsburgh Steelers(PIT),11.7
-Houston Texans(HOU),10.9
-Minnesota Vikings(MIN),10.5
-Kansas City Chiefs(KC),9.8
+Las Vegas Raiders(LV),11.5
 Jacksonville Jaguars(JAC),11.3
-Tampa Bay Buccaneers(TB),10.8
 Chicago Bears(CHI),11.3
-Denver Broncos(DEN),10.6
 New York Giants(NYG),11.1
+Houston Texans(HOU),10.9
+New Orleans Saints(NO),10.9
+Tampa Bay Buccaneers(TB),10.8
 Cincinnati Bengals(CIN),10.8
 Seattle Seahawks(SEA),10.7
-Green Bay Packers(GB),9.1
-New England Patriots(NE),8.3
+Denver Broncos(DEN),10.6
+Minnesota Vikings(MIN),10.5
+Kansas City Chiefs(KC),9.8
 Los Angeles Chargers(LAC),9.5
 Detroit Lions(DET),9.5
 Philadelphia Eagles(PHI),9.3
-Tennessee Titans(TEN),7.7
+Green Bay Packers(GB),9.1
 Atlanta Falcons(ATL),8.3
-Los Angeles Rams(LAR),7.6
+New England Patriots(NE),8.3
 Arizona Cardinals(ARI),8.2
-Carolina Panthers(CAR),6.2
 Washington Commanders(WAS),8.0
+Tennessee Titans(TEN),7.7
+Los Angeles Rams(LAR),7.6
+Carolina Panthers(CAR),6.2

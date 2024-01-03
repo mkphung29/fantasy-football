@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Fantasy Football Recommendations</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  </head>
+  <body>
+    <nav class="navbar is-warning" role="navigation" aria-label="main navigation" height="150px">
+      <div class="navbar-brand">
+        <a class="navbar-item" href="/">
+          <img width="50" height="80" src="https://img.icons8.com/emoji/48/american-football-emoji.png" alt="american-football-emoji"/>
+          <p class="subtitle">Fantasy Football Recommendations</p>
+        </a>
+    
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+    </nav>
+  <main>
+<section class="section">
+    <div class="container">
+      <h1 class="title">
+        Top Quarterbacks
+      </h1>
+    
+      <table class="table is-bordered is-striped is-fullwidth">
+          <thead>
+              <tr>
+                  <th>Player</th>
+              </tr>
+          </thead>
+          <tbody>
+              
+                  <tr>
+                      <td>Tua Tagovailoa(MIA)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Jared Goff(DET)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Dak Prescott(DAL)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Patrick Mahomes II(KC)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Brock Purdy(SF)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Josh Allen(BUF)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Matthew Stafford(LAR)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Baker Mayfield(TB)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Jordan Love(GB)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Sam Howell(WAS)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Jalen Hurts(PHI)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>C.J. Stroud(HOU)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Trevor Lawrence(JAC)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Lamar Jackson(BAL)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Derek Carr(NO)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Geno Smith(SEA)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Gardner Minshew II(IND)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Justin Herbert(LAC)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Russell Wilson(DEN)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Bryce Young(CAR)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Desmond Ridder(ATL)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Joshua Dobbs(MIN)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Justin Fields(CHI)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Joe Burrow(CIN)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Kirk Cousins(MIN)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Zach Wilson(NYJ)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Mac Jones(NE)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Kenny Pickett(PIT)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Aidan O&#39;Connell(LV)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Will Levis(TEN)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Jake Browning(CIN)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Joe Flacco(CLE)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Kyler Murray(ARI)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Ryan Tannehill(TEN)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Jimmy Garoppolo(LV)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Bailey Zappe(NE)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Deshaun Watson(CLE)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Tommy DeVito(NYG)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Tyrod Taylor(NYG)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Daniel Jones(NYG)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Nick Mullens(MIN)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Taylor Heinicke(ATL)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Tyson Bagent(CHI)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Easton Stick(LAC)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Trevor Siemian(NYJ)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>P.J. Walker(CLE)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Mitch Trubisky(PIT)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Anthony Richardson(IND)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Mason Rudolph(PIT)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Drew Lock(SEA)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Dorian Thompson-Robinson(CLE)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Tim Boyle(HOU)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>C.J. Beathard(JAC)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Andy Dalton(CAR)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Case Keenum(HOU)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Jameis Winston(NO)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Jacoby Brissett(WAS)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Brian Hoyer(LV)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Jarrett Stidham(DEN)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Davis Mills(HOU)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Brett Rypien(NYJ)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Jaren Hall(MIN)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Cooper Rush(DAL)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Sam Darnold(SF)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Mike White(MIA)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Malik Willis(TEN)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Clayton Tune(ARI)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Sean Clifford(GB)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Tyler Huntley(BAL)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>AJ McCarron(CIN)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Blaine Gabbert(KC)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Marcus Mariota(PHI)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Aaron Rodgers(NYJ)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Kyle Trask(TB)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>John Wolford(TB)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Brett Ratliff(TEN)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Josh Johnson(BAL)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Logan Woodside(ATL)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Trace McSorley(PIT)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>David Blough(DET)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Will Grier(LAC)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Alex McGough(GB)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Teddy Bridgewater(DET)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Nate Sudfeld(DET)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Brett Smith(TB)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Carson Wentz(LAR)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Jeff Driskel(CLE)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Brandon Allen(SF)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Sean Mannion(SEA)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Ben Chappell(WAS)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Matt Barkley(JAC)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Nathan Peterman(CHI)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Adam Froman(ATL)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Cephus Johnson III(TB)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Hunter Cantwell(BAL)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Jake Haener(NO)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Sam Ehlinger(IND)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Ben DiNucci(DEN)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Jacob Eason(FA)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Jake Fromm(WAS)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Shane Buechele(BUF)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Kellen Mond(IND)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Feleipe Franks(ATL)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Trey Lance(DAL)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Chris Oladokun(KC)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Tanner McKee(PHI)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Erik Ainge(NYJ)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Hendon Hooker(DET)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>E.J. Perry(JAC)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Nathan Rourke(NE)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Dresser Winn(LAR)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Drew Plitt(CIN)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Malik Cunningham(BAL)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Skylar Thompson(MIA)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Stetson Bennett(LAR)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Max Duggan(LAC)</td>
+                  </tr>
+              
+                  <tr>
+                      <td>Kyle Allen(BUF)</td>
+                  </tr>
+              
+          </tbody>
+      </table>
+    </div>
+</section>
+<div class="container is-fluid">
+    <aside class="menu">
+        <p class="menu-label">
+          <strong>Position Rankings</strong>
+        </p>
+        <ul class="menu-list">
+          <li><a href="/rb">Running Back</a></li>
+          <li><a href="/wr">Wide Receiver</a></li>
+          <li><a href="/te">Tight End</a></li>
+          <li><a href="/dst">Defense/Special Teams</a></li>
+          <li><a href="/kicker">Kicker</a></li>
+        </ul>
+      </aside>
+  </div>
+</main>
+  </body>
+  <footer class="footer">
+    <div class="content has-text-centered">
+      <p>
+        <strong>Fantasy Football Recommendations</strong> by Madison Phung. The source code can be found on
+        <a href="https://github.com/mkphung29/fantasy-football">GitHub</a>.
+      </p>
+    </div>
+  </footer>
+</html>
