@@ -1,0 +1,38 @@
+{% extends 'base.html' %} {% block container %}
+<section class="section">
+    <div class="container">
+      <h1 class="title">
+        Top Quarterbacks
+      </h1>
+    
+      <table class="table is-bordered is-striped is-fullwidth">
+          <thead>
+              <tr>
+                  <th>Player</th>
+              </tr>
+          </thead>
+          <tbody>
+              {% for player in qb_rec_ratings %}
+                  <tr>
+                      <td>{{ player['PLAYER'] }}</td>
+                  </tr>
+              {% endfor %}
+          </tbody>
+      </table>
+    </div>
+</section>
+<div class="container is-fluid">
+    <aside class="menu">
+        <p class="menu-label">
+          <strong>Position Rankings</strong>
+        </p>
+        <ul class="menu-list">
+          <li><a href="{{ url_for('show_rb_ratings')}}">Running Back</a></li>
+          <li><a href="{{ url_for('show_wr_ratings')}}">Wide Receiver</a></li>
+          <li><a href="{{ url_for('show_te_ratings')}}">Tight End</a></li>
+          <li><a href="{{ url_for('show_dst_ratings')}}">Defense/Special Teams</a></li>
+          <li><a href="{{ url_for('show_k_ratings')}}">Kicker</a></li>
+        </ul>
+      </aside>
+  </div>
+{% endblock %}

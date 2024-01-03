@@ -1,0 +1,41 @@
+{% extends 'base.html' %} {% block container %}
+<section class="section">
+    <div class="container">
+      <h1 class="title">
+        Draft the Best Players!
+      </h1>
+      <p class="subtitle">
+        Introducing our Fantasy Football Draft Guide app –– your ultimate
+        tool for making strategic player selections and dominating your fantasy
+        football league! Whether you're a seasoned manager or a rookie, this
+        app is designed to enhance your drafting experience by providing player
+        recommendations tailored to each position. 
+      </p>
+      <p class="subtitle">
+        Each player is ranked based on a recommendation rating: this rating takes 
+        all of the most important statistics for each position and combines them
+        into a single stat. 
+      </p>
+      <p class="subtitle">
+        <solid>Note: </solid> all calculations have been simplified based on player
+        statistics during a single season. These rankings are based on the best 
+        performing players during the season. 
+      </p>
+    </div>
+  </section>
+  <div class="container is-fluid">
+    <aside class="menu">
+        <p class="menu-label">
+          <strong>Position Rankings</strong>
+        </p>
+        <ul class="menu-list">
+          <li><a href="{{ url_for('show_qb_ratings')}}">Quarterback</a></li>
+          <li><a href="{{ url_for('show_rb_ratings')}}">Running Back</a></li>
+          <li><a href="{{ url_for('show_wr_ratings')}}">Wide Receiver</a></li>
+          <li><a href="{{ url_for('show_te_ratings')}}">Tight End</a></li>
+          <li><a href="{{ url_for('show_dst_ratings')}}">Defense/Special Teams</a></li>
+          <li><a href="{{ url_for('show_k_ratings')}}">Kicker</a></li>
+        </ul>
+      </aside>
+  </div>
+{% endblock %}
