@@ -6,12 +6,12 @@ Players are displayed to users from those with the highest to the lowest recomme
 
 ## Research
 My calculations are based on the research I did using these links:
-[Quarterbacks]('https://www.sharpfootballanalysis.com/fantasy/quarterback-stats-that-matter-fantasy-football-2023/')
-[Running Backs]('https://www.sharpfootballanalysis.com/fantasy/running-back-stats-that-matter-fantasy-football-2023/')
-[Wide Receivers]('https://www.sharpfootballanalysis.com/fantasy/wide-receiver-stats-that-matter-fantasy-football-2023/')
-[Tight Ends]('https://www.sharpfootballanalysis.com/fantasy/te-stats-that-matter-fantasy-football/')
-[Defense/Special Teams]('https://www.lineups.com/fantasy-football-stats/defense')
-[Kickers]('https://www.sharpfootballanalysis.com/fantasy/te-stats-that-matter-fantasy-football/')
+[Quarterbacks](https://www.sharpfootballanalysis.com/fantasy/quarterback-stats-that-matter-fantasy-football-2023/)
+[Running Backs](https://www.sharpfootballanalysis.com/fantasy/running-back-stats-that-matter-fantasy-football-2023/)
+[Wide Receivers](https://www.sharpfootballanalysis.com/fantasy/wide-receiver-stats-that-matter-fantasy-football-2023/)
+[Tight Ends](https://www.sharpfootballanalysis.com/fantasy/te-stats-that-matter-fantasy-football/)
+[Defense/Special Teams](https://www.lineups.com/fantasy-football-stats/defense')
+[Kickers]('https://www.sharpfootballanalysis.com/fantasy/te-stats-that-matter-fantasy-football/)
 
 ## Usage
 This website is deployed to Netlify. Here is the link to access it: 
